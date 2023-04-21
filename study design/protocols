@@ -11,6 +11,11 @@ Variables
 
 ## What are the known readmission related variables?
 
--Common reasons for readmission included 29 patients with injection drug use who were readmitted with soft tissue infections at new sites (16.8% of readmissions), 25 with disposition support issues (14.5%), 23 with infections not detectable during index admission (13.3%), and 16 with sequelae of their injury or condition (9.2%). Sixteen patients were identified as having a likely preventable complication of care (9.2%), and 2 were readmitted owing to deterioration of medical conditions (1.2%). On univariate and multivariate analyses, female sex (men to women risk of readmission odds ratio [OR], 0.5; 95% CI, 0.37-0.71; P < .001), presence of diabetes (OR, 1.7; 95% CI, 1.1-2.6; P = .009), sepsis on admission (OR, 1.7; 95% CI, 1.05-2.6; P = .03), or intensive care unit stay during index admission (OR, 1.7; 95% CI, 1.2-2.4; P = .002), as well as discharge to respite care (OR, 2.3; 95% CI, 1.2-4.5; P = .01) and payer status (Medicaid/Medicare compared with commercial OR, 2.0; 95% CI, 1.3-3.0; P = .002) , were identified as risk factors for readmission
-- As of January 2020, the HRRP has considered readmissions following acute myocardial infarction (AMI), chronic obstructive pulmonary disease (COPD), heart failure (HF), pneumonia (PN), coronary artery bypass graft (CABG), and total hip or knee arthroplasty (THA/TKA) in the calculation of readmission penalties due to high cost, substantial morbidity and mortality, and marked performance variations across hospitals
+- soft tissue infections at new sites, disposition support issues, infections not detectable during index admission, sequelae of their injury or condition. 
+- 
+- soft tissue infections at new sites, disposition support issues, infections not detectable during index admission, sequelae of their injury or condition. 
+- 
+- low level of albumin 
+- disability/functional status measures and socioeconomic status
+
 - Social factors: tobacco use, alcohol abuse, drug abuse, depression, housing instability, fall risk, and poor social support.
